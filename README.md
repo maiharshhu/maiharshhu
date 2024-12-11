@@ -26,7 +26,7 @@ I'm a passionate Python developer with experience in building scalable web appli
 - **Git**: Version control system.
 - **Docker**: Containerization of web apps for easier deployment.
 - **CI/CD**: Continuous integration and deployment pipelines.
-- **Heroku / AWS**: Deployment platforms.
+- **AWS**: Deployment platforms.
 
 ---
 
