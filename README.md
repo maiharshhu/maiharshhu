@@ -1,4 +1,4 @@
-# 👨‍💻 Python Developer | Django | Flask | MySQL | PostgreSQL
+# 👨‍💻 Python Developer | Django |
 
 Welcome to my GitHub! 👋
 
