@@ -36,19 +36,3 @@ I'm a passionate Python developer with experience in building scalable web appli
 - I'm always exploring new libraries and frameworks to improve my skills. 🔍
 - I am passionate about **video games** 🎮, both as a hobby and as a source of inspiration for my coding projects.
 
----
-
-## 🎥 Fun Animation (Let's make it interactive!)
-
-You can add a simple Python animation to make your readme even more engaging. Here's a little animated "Hello World!" script in Python that you can run:
-
-```python
-import time
-
-def animated_hello_world():
-    message = "Hello, World!"
-    for i in range(len(message)):
-        print(message[:i+1], end="\r")
-        time.sleep(0.2)
-
-animated_hello_world()
