@@ -1,5 +1,5 @@
 
-# Hi — I’m Harsh Jain 👋
+# Hi I’m Harsh Jain 👋
 
 Aspiring **MERN stack developer** currently learning **React** and building practical projects to strengthen my frontend and full-stack skills.
 
