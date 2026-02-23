@@ -17,7 +17,7 @@ Aspiring **MERN stack developer** currently learning **React** and building prac
 
 **Frontend:** HTML, CSS, JavaScript (ES6+), React (Hooks, Context, Router)
 
-**Backend:** Node.js, Express
+**Backend:** Node.js, Express, python(basic) 
 
 **Database:** MongoDB (Mongoose)
 
@@ -41,7 +41,6 @@ Aspiring **MERN stack developer** currently learning **React** and building prac
 * **E‑Commerce Mock** — Product listing, cart, checkout (frontend-first, then connect to backend).
 * **Blog Platform** — Rich text editor, user posts, comments, and user profiles.
 
-> *Each project is a learning milestone — small, focused, and production-ready (responsive + accessible).*
 
 
 ## ✅ What I'm Looking For
