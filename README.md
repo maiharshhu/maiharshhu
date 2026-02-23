@@ -31,7 +31,7 @@ Aspiring **MERN stack developer** currently learning **React** and building prac
 2. **State Management** — Context API and patterns; exploring Redux / Zustand basics.
 3. **API Integration** — Building RESTful APIs with Node + Express and integrating them with React.
 4. **Authentication** — JWT-based auth and protected routes.
-5. **Deployment** — Deploying full-stack apps (Vercel / Netlify for frontend, Heroku / Render / Railway for backend).
+5. **Deployment** — Deploying full-stack apps 
 
 ---
 
@@ -43,15 +43,6 @@ Aspiring **MERN stack developer** currently learning **React** and building prac
 
 > *Each project is a learning milestone — small, focused, and production-ready (responsive + accessible).*
 
----
-
-## 📚 Roadmap (Short-term)
-
-* Build at least 2 full-stack projects end-to-end and deploy them.
-* Learn testing basics (Jest + React Testing Library) for components and API endpoints.
-* Improve CSS skills: responsive design, Flexbox, Grid, and component-level styling.
-
----
 
 ## ✅ What I'm Looking For
 
