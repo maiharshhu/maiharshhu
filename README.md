@@ -1,57 +1,87 @@
+# Hi, I'm Harsh Jain 👋
 
-# Hi I’m Harsh Jain 👋
+### React Developer | MERN Stack Enthusiast
 
-Aspiring **MERN stack developer** currently learning **React** and building practical projects to strengthen my frontend and full-stack skills.
+Passionate about building responsive, scalable, and user-friendly web applications using modern JavaScript technologies. Currently focused on strengthening my frontend and full-stack development skills by building real-world projects and continuously learning new technologies.
 
 ---
 
-## 🔭 About Me
+## 🚀 About Me
 
-* I'm passionate about building clean, scalable web applications.
-* Currently focused on mastering **React (hooks, state management, routing)** and connecting it to Node/Express backends with MongoDB.
-* I enjoy reading docs, following best practices, and turning theoretical knowledge into working projects.
+- Frontend-focused developer with knowledge of the MERN stack.
+- Experienced in building responsive web applications using React.js.
+- Passionate about creating clean UI components and improving user experience.
+- Continuously learning modern development practices, performance optimization, and scalable application architecture.
+- Interested in full-stack development and API integration.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript (ES6+), React (Hooks, Context, Router)
+### Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+- React Router
 
-**Backend:** Node.js, Express, python(basic) 
+### Backend
+- Node.js
+- Express.js
 
-**Database:** MongoDB (Mongoose)
+### Database
+- PostgreSQL
 
-**Other:** Git, GitHub, REST APIs, Postman, Vite / Create React App
+### Tools & Technologies
+- Git & GitHub
+- REST APIs
+- Axios
+- Postman
+- Vite
+- VS Code
 
 ---
 
 ## 🎯 Current Learning Focus
 
-1. **React** — Functional components, `useState`, `useEffect`, custom hooks, performance optimizations, component patterns.
-2. **State Management** — Context API and patterns; exploring Redux / Zustand basics.
-3. **API Integration** — Building RESTful APIs with Node + Express and integrating them with React.
-4. **Authentication** — JWT-based auth and protected routes.
-5. **Deployment** — Deploying full-stack apps 
+- Advanced React concepts and reusable component architecture
+- State management using Context API and Redux
+- Backend API development with Node.js and Express
+- Authentication & Authorization using JWT
+- Full-stack application deployment and optimization
 
 ---
 
-## 🚧 Projects (Work in Progress / Ideas)
+## 🚧 Projects
 
-* **TodoApp (React + Node + MongoDB)** — CRUD, auth, protected routes.
-* **E‑Commerce Mock** — Product listing, cart, checkout (frontend-first, then connect to backend).
-* **Blog Platform** — Rich text editor, user posts, comments, and user profiles.
+### 🛒 E-Commerce Application
+- Developed a responsive eCommerce web application.
+- Implemented user authentication and individual account management.
+- Added shopping cart and order placement functionality.
+- Integrated Cash on Delivery (COD) purchase workflow.
+- Connected frontend with backend APIs for dynamic data handling.
 
-
-
-## ✅ What I'm Looking For
-
-* Open-source opportunities to contribute and learn.
-* Code reviews and mentorship to improve architecture and best practices.
-* Internship / junior developer roles where I can grow into a reliable MERN developer.
+### ✅ Todo Application
+- Built CRUD functionality using React and Node.js
+- Implemented authentication and protected routes
+- Integrated backend APIs and database operations
 
 ---
 
-## 📫 How to Reach Me
+## 🌱 Goals
 
-* GitHub: `@maiharshhu` 
-* Email: `harrrssh@gmail.com` 
+- Improve problem-solving and application architecture skills
+- Gain experience in production-level React and full-stack applications
+- Grow as a professional React Developer
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: `@maiharshhu`
+- Email: `harrrssh@gmail.com`
+
+---
+
+⭐ Always learning, building, and improving.
