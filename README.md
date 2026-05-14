@@ -31,6 +31,7 @@ Passionate about building responsive, scalable, and user-friendly web applicatio
 - Express.js
 
 ### Database
+- MongoDB
 - PostgreSQL
 
 ### Tools & Technologies
