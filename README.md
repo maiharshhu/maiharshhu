@@ -62,13 +62,9 @@ Passionate about building responsive, scalable, and user-friendly web applicatio
 - Added shopping cart and order placement functionality.
 - Integrated Cash on Delivery (COD) purchase workflow.
 - Connected frontend with backend APIs for dynamic data handling.
-
-### ✅ Todo Application
-- Built CRUD functionality using React and Node.js
-- Implemented authentication and protected routes
-- Integrated backend APIs and database operations
-
----
+### AI Resume Analyzer
+- upload resume and get ats scores according to job.
+- need to fill full details like company name , skills, description
 
 ## 🌱 Goals
 
